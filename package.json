@@ -1,0 +1,19 @@
+{
+  "name": "util-functions",
+  "version": "1.0.0",
+  "description": "This is a student repo for learning about util functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJPcodes/utility-functions.git"
+  },
+  "author": "Allen J. Phelps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AJPcodes/utility-functions/issues"
+  },
+  "homepage": "https://github.com/AJPcodes/utility-functions#readme"
+}
